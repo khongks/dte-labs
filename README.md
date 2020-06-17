@@ -1,1 +1,1 @@
-This App Connect Enterprise and MQ use case
+TThis is DTE use cases repository
