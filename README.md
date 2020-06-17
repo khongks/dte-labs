@@ -1,1 +1,1 @@
-TThis is DTE use cases repository
+This is DTE use cases repository
